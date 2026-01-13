@@ -1,0 +1,1 @@
+FACTURE | 2026-01-13 | Client=a | HT=1.0 | TVA=0.2 | TTC=1.2
